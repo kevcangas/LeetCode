@@ -25,7 +25,7 @@ Example 3:
 **Explanation:** "you" is not a prefix of any word in the sentence.
  
 
-**Constraints:**
+## Constraints:
 
 - 1 <= sentence.length <= 100
 - 1 <= searchWord.length <= 10
