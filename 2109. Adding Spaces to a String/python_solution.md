@@ -40,6 +40,8 @@ All the values of spaces are strictly increasing.
 
 ## Solution
 
+**Time:** 12 minutes
+
 ```python
 class Solution:
     def addSpaces(self, s: str, spaces: List[int]) -> str:
